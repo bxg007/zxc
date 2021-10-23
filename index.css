@@ -1,0 +1,9 @@
+body{
+    background-image: url(image/bj.jpg);
+    background-size: 100%;
+    text-align: center;
+}
+h1{
+color: darksalmon;
+font-family: "方正舒体";
+}
